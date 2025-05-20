@@ -1,0 +1,4 @@
+/* Any custom CSS rules can go here */
+#drop-area.border-blue-500 {
+    border-width: 4px;
+}

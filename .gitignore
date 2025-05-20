@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+venv/
+*.h5 # IMPORTANT: Only include this line if your dog_breed_model.h5 is larger than 100MB!
+     # If your model file is smaller than 100MB and you want it on GitHub, DELETE this line.
+.DS_Store
+*.ipynb_checkpoints/
